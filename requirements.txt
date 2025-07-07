@@ -1,0 +1,5 @@
+openai>=1.0.0
+streamlit
+python-dotenv
+pydantic
+agents @ git+https://github.com/openagents/openagents.git
